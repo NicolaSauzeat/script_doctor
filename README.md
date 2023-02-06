@@ -45,7 +45,7 @@ Exemple : Joker_parsed.txt
 Après cela, les titres peuvent être modifiés en dur dans le code afin de changer les titres des différents graphiques
 
 Il est à noter que ce script a été développé pour un script en particulier, faisant l'objet de la preuve de concept
-(Joker), et a été tester sur un petit échantillon de scénario par 
+(Joker), et a été testé sur un petit échantillon de scénario par 
 
 
 ## Lancement du script ##
